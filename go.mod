@@ -2,6 +2,8 @@ module github.com/nanu-c/axolotl
 
 go 1.16
 
+replace github.com/signal-golang/textsecure => /home/mobian/dev/github.com/textsecure
+
 require (
 	github.com/asticode/go-astikit v0.17.0 // indirect
 	github.com/asticode/go-astilectron v0.22.3
