@@ -6,7 +6,7 @@ require (
 	github.com/asticode/go-astikit v0.22.0 // indirect
 	github.com/asticode/go-astilectron v0.27.0
 	github.com/asticode/go-astilectron-bootstrap v0.4.14
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/gen2brain/beeep v0.0.0-20200526185328-e9c15c258e28
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
