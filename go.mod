@@ -21,7 +21,7 @@ require (
 	github.com/signal-golang/textsecure v1.10.4-0.20220301204135-53684eb9c15b
 	github.com/sirupsen/logrus v1.8.1
 	github.com/ttacon/builder v0.0.0-20170518171403-c099f663e1c2 // indirect
-	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50
+	github.com/vincent-petithory/dataurl v1.0.0
 	github.com/z3ntu/go-dbus v0.0.0-20170220120108-c022b8b2e127
 	github.com/zserge/lorca v0.1.10
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
